@@ -2,7 +2,7 @@
 {
     public class RetsObject
     {
-        public int MetadataEntryId { get; set; }
+        public string MetadataEntryId { get; set; }
         public string ObjectType { get; set; }
         public string MimeType { get; set; }
         public string VisibleName { get; set; }
